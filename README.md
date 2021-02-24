@@ -12,6 +12,8 @@
 2. Kaggle: https://www.kaggle.com/
 3. Anaconda: https://www.anaconda.com/
 
+
+
 ## 備註
 ### 本機jupyter notebook自動補上語法
 * 安装 nbextensions
@@ -26,3 +28,6 @@
 
 * 如果提示缺少依賴項（套件），就使用pip安裝對應依賴項（套件）即可。
 * 最後重新啟動jupyter，在彈出的Home裡面中，能看到增加了Nbextensions標籤頁，在這勾選Hinterland即啟動語法自動補全
+
+### Python安裝3.6環境
+`conda create -n py36 python=3.6 anaconda`
