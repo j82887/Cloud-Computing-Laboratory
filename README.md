@@ -8,6 +8,6 @@
 | 4 | 3月17日 | 車牌辨識：影像標柱與影像增量 | 機器學習：線性回歸與邏輯回歸 |
 
 ## 連結網址
-Google Colab: https://colab.research.google.com/notebooks/intro.ipynb#recent=true
-Kaggle: https://www.kaggle.com/
-Anaconda: https://www.anaconda.com/
+1. Google Colab: https://colab.research.google.com/notebooks/intro.ipynb#recent=true
+2. Kaggle: https://www.kaggle.com/
+3. Anaconda: https://www.anaconda.com/
