@@ -8,6 +8,7 @@
 | 4 | 3/17 | 車牌辨識：CNN分類器 | 深度學習：多層感知器與卷積神經網路 | -- |
 | 5 | 3/24 | 車牌辨識：實際應用 | 分類的驗證指標 | -- |
 
+---
 ## 連結網址
 1. Google Colab: https://colab.research.google.com/notebooks/intro.ipynb#recent=true
 2. Kaggle: https://www.kaggle.com/
