@@ -14,7 +14,8 @@
 * 安裝完成後，在Environments中點擊py36的環境，並轉換到「Home」，點擊安裝jupyter Notebook「install」
 * 完成後Environments中在py36環境，以左鍵點擊三角形選擇執行「Open with Jupyter Notebook」可以開始撰寫程式
 
-### 02. 本機jupyter notebook自動補上語法
+---
+## 02. 本機jupyter notebook自動補上語法
 #### 在py36環境中開啟命令提示字元執行下列指令：
 * 安装 nbextensions
 1. `pip install jupyter_contrib_nbextensions`
