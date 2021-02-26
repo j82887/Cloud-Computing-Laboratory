@@ -34,4 +34,4 @@
 ## 03. 安裝套件
 #### 有兩種安裝方式：
 1. 可至PyPI網站上尋找套件名稱，並複製`pip install package_name`輸入至該環境的命令提示字元中
-2. 在該環境中選擇「Not Installed」，點擊方框選擇「Apply」來安裝
+2. 在該環境中選擇「Not Installed」，對預安裝的套件點擊方框，並選擇「Apply」來安裝
