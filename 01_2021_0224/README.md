@@ -5,14 +5,14 @@
 
 ## 01. 本機安裝Python
  
-1. 從Anaconda官網中選擇下載電腦系統支援的安裝檔案(目前Anaconda的最高Python版本為3.8)
-2. 執行安裝檔，環境變數需要打勾文字成紅色，其餘都按下一步即可
-3. 安裝完成後，將Anaconda以右鍵以「系統管理身分執行」
-4. 由於考量本教材使用的套件大多只支援Python3.6，所以創建Python 3.6的環境：
-a. Environments中在base(root)根環境，以左鍵點擊三角形選擇執行「Open Terminal」執行命令提示字元
-b. 在命令提示字元中輸入`conda create -n py36 python=3.6 anaconda`，開始創建名稱為py36與Python版本為3.6的環境
-5. 安裝完成後，在Environments中點擊py36的環境，並轉換到「Home」，點擊安裝jupyter Notebook「install」
-6. 完成後Environments中在py36環境，以左鍵點擊三角形選擇執行「Open with Jupyter Notebook」可以開始撰寫程式
+* 從Anaconda官網中選擇下載電腦系統支援的安裝檔案(目前Anaconda的最高Python版本為3.8)
+* 執行安裝檔，環境變數需要打勾文字成紅色，其餘都按下一步即可
+* 安裝完成後，將Anaconda以右鍵以「系統管理身分執行」
+* 由於考量本教材使用的套件大多只支援Python3.6，所以創建Python 3.6的環境：
+1. Environments中在base(root)根環境，以左鍵點擊三角形選擇執行「Open Terminal」執行命令提示字元
+2. 在命令提示字元中輸入`conda create -n py36 python=3.6 anaconda`，開始創建名稱為py36與Python版本為3.6的環境
+* 安裝完成後，在Environments中點擊py36的環境，並轉換到「Home」，點擊安裝jupyter Notebook「install」
+* 完成後Environments中在py36環境，以左鍵點擊三角形選擇執行「Open with Jupyter Notebook」可以開始撰寫程式
 
 ### 02. 本機jupyter notebook自動補上語法
 #### 在py36環境中開啟命令提示字元執行下列指令：
