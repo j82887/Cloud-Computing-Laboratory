@@ -8,26 +8,3 @@
 | 4 | 3/17 | 車牌辨識：CNN分類器 | 深度學習：多層感知器與卷積神經網路 | -- |
 | 5 | 3/24 | 車牌辨識：實際應用 | 分類的驗證指標 | -- |
 
----
-## 連結網址
-1. Google Colab: https://colab.research.google.com/notebooks/intro.ipynb#recent=true
-2. Kaggle: https://www.kaggle.com/
-3. Anaconda: https://www.anaconda.com/
-
-## 備註
-### 本機jupyter notebook自動補上語法
-* 安装 nbextensions
-`pip install jupyter_contrib_nbextensions`
-
-`jupyter contrib nbextension install --user`
-
-* 安裝 nbextensions_configurator
-`pip install jupyter_nbextensions_configurator`
-
-`jupyter nbextensions_configurator enable --user`
-
-* 如果提示缺少依賴項（套件），就使用pip安裝對應依賴項（套件）即可。
-* 最後重新啟動jupyter，在彈出的Home裡面中，能看到增加了Nbextensions標籤頁，在這勾選Hinterland即啟動語法自動補全
-
-### Python安裝3.6環境
-`conda create -n py36 python=3.6 anaconda`
