@@ -2,6 +2,7 @@
 1. Google Colab: https://colab.research.google.com/notebooks/intro.ipynb#recent=true
 2. Kaggle: https://www.kaggle.com/
 3. Anaconda: https://www.anaconda.com/
+4. PyPI: https://pypi.org/
 
 ## 01. 本機安裝Python
  
@@ -29,3 +30,8 @@
 * 如果提示缺少依賴項（套件），就使用pip安裝對應依賴項（套件）即可。
 * 最後重新啟動jupyter，在彈出的Home裡面中，能看到增加了Nbextensions標籤頁，在這勾選Hinterland即啟動語法自動補全
 
+---
+## 03. 安裝套件
+#### 有兩種安裝方式：
+1. 可至PyPI網站上尋找套件名稱，並複製`pip install package_name`輸入至該環境的命令提示字元中
+2. 在該環境中選擇「Not Installed」，點擊方框選擇「Apply」來安裝
