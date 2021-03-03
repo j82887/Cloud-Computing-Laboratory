@@ -5,8 +5,8 @@
 # 02. MNIST Handwritten Digit Database
 * 包含著60,000張訓練集與10,000張測試集的灰階影像(array)，每張的大小皆為28x28
 * 可安裝Kears後，直接匯入進來：
-`from keras.datasets import mnist`
-`(X_train, Y_train), (X_test, Y_test) = mnist.load_data()`
+* `from keras.datasets import mnist`
+* `(X_train, Y_train), (X_test, Y_test) = mnist.load_data()`
 
 # 03. AZ Handwritten Alphabets
 * 影像集為26個英文字母的影像，下載網址可至Kaggle [連結](https://www.kaggle.com/sachinpatel21/az-handwritten-alphabets-in-csv-format) 中
