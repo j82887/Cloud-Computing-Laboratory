@@ -3,6 +3,7 @@
 * pip install glob2
 * pip install Pillow
 * pip install pytest-shutil
+* pip install opencv-python
 
 ## OpenCV Haar 特徵分類器
 * https://github.com/sauhaardac/haar-training
