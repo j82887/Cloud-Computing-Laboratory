@@ -6,7 +6,8 @@
 
 * **安裝過程中可出現下列BUG：** 
 1. 在CMD中：`WARNING: The scripts xx.exe are installed in 'C:\Users\...' which is not on PATH. Consider adding this directory to PATH or, if you prefer to suppress this warning, use --no-warn-script-location.`，解決方式是將該位置加入環境變數中，從「本機」中點擊右鍵選擇「內容」，它會跳到"控制台\系統及安全性\系統"，選擇「進階系統設定」→「環境變數」，將該環境添加進去
-2. 在import tensorflow中：`FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'._np_quint8 = np.dtype([("quint8", np.uint8, 1)])`，原因是numpy太新，解決方式降numpy版本 `pip install numpy==1.16.0 --user`
+2. 在import tensorflow 部分套件中：`FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'._np_quint8 = np.dtype([("quint8", np.uint8, 1)])`，原因是numpy太新，解決方式降numpy版本 `pip install numpy==1.16.0 --user`
+3. 在import keras 部分套件中：`ImportError: cannot import name 'to_categorical'`，原因可能為keras版本部分與tensorflow不符，因此從pip改使用conda來安裝`conda install keras`
 
 ## 02. 英文手寫數據集
 #### Kaggle
