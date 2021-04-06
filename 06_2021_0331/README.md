@@ -1,5 +1,5 @@
 ## 01. 安裝套件
-* pip install keras==1.08
+* pip install keras==1.0.8
 * pip install tensorflow== 1.13.1 --user 
 * 本教材只裝於Keras版本為 1.08，Tensorflow版本為 1.13.1。若要嘗試最新Tensorflow 2.0版本可以參考網址安裝：https://tf.wiki/zh_hant/basic/installation.html
 * 安裝不成功者則可以使用Colab進行實作
