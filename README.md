@@ -72,7 +72,7 @@
 
 ### 2021.04.07
 #### 程式上:
-- [ ] 卷積神經網路（Tensorflow and Kears）
+- [ ] 卷積神經網路（Tensorflow and Keras）
 
 ---
 # 教材錯誤更正：
