@@ -76,3 +76,9 @@
 1. 第三頁：在調整正樣本的影像與標注檔案中，變數n未定義，已更正為`n = data[1]`
 2. 第四頁：在影像增量中，移除左上角圖 if條件式內的newx, newy定義太過於複雜，已更正為`newx = int((x-reduceW)*multi)`與`newy = int((y-reduceH)*multi)`
 3. 第九頁：在車牌號碼各別擷取中的：B將二值化的影像進行輪廓偵測，參數`cv2.RETR_EXTERNAL`更正為`cv2.RETR_TREE`
+
+---
+# 課後詢問：
+### 1. 聯絡地點：理工二館 A202
+### 2. 聯絡信件：j82887@gmail.com
+### 3. 表單：https://forms.gle/T78yvzipNS6Uu6hi9
