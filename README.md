@@ -70,6 +70,10 @@
 - [x] 卷積神經網路
 - [x] 分類模型的驗證指標
 
+### 2021.04.07
+#### 程式上:
+- [ ] 卷積神經網路（Tensorflow and Kears）
+
 ---
 # 教材錯誤更正：
 ### 車牌辨識系統
@@ -81,4 +85,4 @@
 # 課後詢問：
 ### 1. 聯絡地點：理工二館 A202
 ### 2. 聯絡信件：j82887@gmail.com
-### 3. 表單：https://forms.gle/T78yvzipNS6Uu6hi9
+### 3. Google表單：https://forms.gle/T78yvzipNS6Uu6hi9
