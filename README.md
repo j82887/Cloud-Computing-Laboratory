@@ -2,7 +2,7 @@
  
 | 週 | 日期 | 課程實作內容 | 課程原理內容 | 備註 |
 | :----: | :----: | :---- | :---- | :---- | 
-| 1 | 2/24 | Google Colab 與 Python安裝 | -- | 自學：Python基礎 | 
+| 1 | 2/24 | Google Colab 與 Python安裝 | -- | 自學：Python基礎[PDF](https://github.com/j82887/Cloud-Computing-Laboratory/raw/main/02_2021_0303/%E5%AF%A6%E4%BD%9C_%E7%AC%AC%E4%B8%80%E9%80%B1_20210303_%E7%A8%8B%E5%BC%8F%E5%9F%BA%E7%A4%8E%20Python.pdf) | 
 | 2 | 3/03 | 3D列印基礎教學 | -- | -- |
 | 3 | 3/10 | 車牌辨識：影像標柱與影像增量 | 機器學習與深度學習概要| -- |
 | 4 | 3/17 | 車牌辨識：Haar分類器 | 機器學習：線性與邏輯回歸 | -- |
