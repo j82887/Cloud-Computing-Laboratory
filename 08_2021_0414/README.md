@@ -6,4 +6,4 @@
 
 
 ## 03. 數字與英文車牌號碼 - 卷積神經網路分類器
-https://drive.google.com/file/d/1FhlSMvnE-93ctoeuFLxWI-pE_YFaS-L6/view?usp=sharing
+* 下載網址：https://drive.google.com/file/d/1FhlSMvnE-93ctoeuFLxWI-pE_YFaS-L6/view?usp=sharing
