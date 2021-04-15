@@ -4,12 +4,12 @@
 | :----: | :----: | :---- | :---- | :---- | 
 | 1 | 2/24 | Google Colab 與 Python安裝 | -- | 自學：Python基礎 [[PDF]](https://github.com/j82887/Cloud-Computing-Laboratory/raw/main/02_2021_0303/%E5%AF%A6%E4%BD%9C_%E7%AC%AC%E4%B8%80%E9%80%B1_20210303_%E7%A8%8B%E5%BC%8F%E5%9F%BA%E7%A4%8E%20Python.pdf) | 
 | 2 | 3/03 | 3D列印基礎教學 | -- | -- |
-| 3 | 3/10 | 車牌辨識：影像標柱與增量 | 機器與深度學習概要| -- |
-| 4 | 3/17 | 車牌辨識：Haar分類器 | 線性與邏輯回歸 | -- |
-| 5 | 3/24 | 車牌辨識：資料集合併 | 多層感知器 | -- |
-| 6 | 3/31 | 車牌辨識：資料前處理 | 卷積神經網路 | -- |
-| 7 | 4/07 | 車牌辨識：CNN分類器 | 驗證指標 | -- |
-| 8 | 4/14 | 車牌辨識：實際應用 | 特徵縮放與獨熱編碼 | -- |
+| 3 | 3/10 | 車牌辨識：影像標柱與增量 | 機器與深度學習概要 [[PDF]](https://github.com/j82887/Cloud-Computing-Laboratory/raw/main/03_2021_0310/%E5%8E%9F%E7%90%86_%E7%AC%AC%E4%B8%89%E9%80%B1_%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7.pdf) | -- |
+| 4 | 3/17 | 車牌辨識：Haar分類器 | 線性與邏輯回歸 [[PDF]](https://github.com/j82887/Cloud-Computing-Laboratory/raw/main/05_2021_0324/%E5%8E%9F%E7%90%86_%E7%AC%AC%E4%BA%94%E9%80%B1_%E7%B7%9A%E6%80%A7%E5%9B%9E%E6%AD%B8.pdf) [[PDF]](https://github.com/j82887/Cloud-Computing-Laboratory/raw/main/05_2021_0324/%E5%8E%9F%E7%90%86_%E7%AC%AC%E4%BA%94%E9%80%B1_%E9%82%8F%E8%BC%AF%E5%9B%9E%E6%AD%B8.pdf) | -- |
+| 5 | 3/24 | 車牌辨識：資料集合併 | 多層感知器 [[PDF]](https://github.com/j82887/Cloud-Computing-Laboratory/raw/main/06_2021_0331/%E5%8E%9F%E7%90%86_%E7%AC%AC%E5%85%AD%E9%80%B1_%E5%A4%9A%E5%B1%A4%E6%84%9F%E7%9F%A5%E5%99%A8.pdf) | -- |
+| 6 | 3/31 | 車牌辨識：資料前處理 | 卷積神經網路 [[PDF]](https://github.com/j82887/Cloud-Computing-Laboratory/raw/main/06_2021_0331/%E5%8E%9F%E7%90%86_%E7%AC%AC%E5%85%AD%E9%80%B1_%E5%8D%B7%E7%A9%8D%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF.pdf) | -- |
+| 7 | 4/07 | 車牌辨識：CNN分類器 | 驗證指標 [[PDF]](https://github.com/j82887/Cloud-Computing-Laboratory/raw/main/05_2021_0324/%E5%8E%9F%E7%90%86_%E7%AC%AC%E4%BA%94%E9%80%B1_%E5%88%86%E9%A1%9E%E6%A8%A1%E5%9E%8B%E7%9A%84%E9%A9%97%E8%AD%89%E6%8C%87%E6%A8%99.pdf) | -- |
+| 8 | 4/14 | 車牌辨識：實際應用 | 特徵縮放與獨熱編碼 [[PDF]](https://github.com/j82887/Cloud-Computing-Laboratory/raw/main/07_2021_0407/%E5%8E%9F%E7%90%86_%E7%AC%AC%E4%B8%83%E9%80%B1_%E8%B3%87%E6%96%99%E5%89%8D%E8%99%95%E7%90%86-%E7%89%B9%E5%BE%B5%E7%B8%AE%E6%94%BE%E8%88%87%E7%8D%A8%E7%86%B1%E7%B7%A8%E7%A2%BC.pdf) | -- |
 | 9 | 4/21 | 人臉辨識模型應用 | 不均勻類別 | 期中週 |
 | 10 | 4/28 | 表情辨識模型應用 | 超參數搜索 | -- |
 | 11 | 5/05 | 3D列印進階教學I | -- | 教學意見問卷 |
@@ -64,7 +64,7 @@
 - [x] 原理上: 資料前處理 - 特徵縮放與獨熱編碼
 
 ### 2021.04.14
-- [ ] 程式上: 車牌辨識系統合併
+- [x] 程式上: 車牌辨識系統合併
 
 ---
 # 教材錯誤更正：
