@@ -1,4 +1,4 @@
-![GITHUB](https://i.pinimg.com/originals/ca/00/60/ca0060f3414e6e20b75983acddafad53.gif)
+![GITHUB](https://blogebox.files.wordpress.com/2019/05/python.jpg)
 # Cloud Computing Laboratory
  
 | 週 | 日期 | 課程實作內容 | 課程原理內容 | 備註 |
