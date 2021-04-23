@@ -12,15 +12,16 @@
 | 7 | 4/07 | 車牌辨識：CNN分類器 [[Code]](https://drive.google.com/file/d/1Lznz3Ne3crARrmZD1EVdH2Z0BVIgYdRC/view?usp=sharing)| 驗證指標 [[PDF]](https://github.com/j82887/Cloud-Computing-Laboratory/raw/main/05_2021_0324/%E5%8E%9F%E7%90%86_%E7%AC%AC%E4%BA%94%E9%80%B1_%E5%88%86%E9%A1%9E%E6%A8%A1%E5%9E%8B%E7%9A%84%E9%A9%97%E8%AD%89%E6%8C%87%E6%A8%99.pdf) | -- |
 | 8 | 4/14 | 車牌辨識：實際應用 [[Code1]](https://drive.google.com/file/d/1YJStzKU4IBQaexVJ1_yG6Y1VzKSJgLk-/view?usp=sharing) [[Code2]](https://drive.google.com/file/d/1Jk4epOYDURp4Hxp5TPy5Seb801miRefk/view?usp=sharing) | 特徵縮放與獨熱編碼 [[PDF]](https://github.com/j82887/Cloud-Computing-Laboratory/raw/main/07_2021_0407/%E5%8E%9F%E7%90%86_%E7%AC%AC%E4%B8%83%E9%80%B1_%E8%B3%87%E6%96%99%E5%89%8D%E8%99%95%E7%90%86-%E7%89%B9%E5%BE%B5%E7%B8%AE%E6%94%BE%E8%88%87%E7%8D%A8%E7%86%B1%E7%B7%A8%E7%A2%BC.pdf) | -- |
 | 9 | 4/21 | 人臉辨識模型應用 | 不均勻類別 | 期中週 |
-| 10 | 4/28 | 表情辨識模型應用 | 超參數搜索 | -- |
-| 11 | 5/05 | 3D列印進階教學I | -- | 教學意見問卷 |
-| 12 | 5/12 | 3D列印進階教學II | -- | -- |
+| 10 | 4/28 | 3D列印進階教學I | -- | -- |
+| 11 | 5/05 | 3D列印進階教學II | -- | 教學意見問卷 |
+| 12 | 5/12 | 表情辨識模型應用 | 超參數搜索 | -- |
 | 13 | 5/19 | Jetbot 基本介紹與實作 | -- | -- |
 | 14 | 5/26 | 製作App及手機遙控小車 | -- | -- |
 | 15 | 6/02 | 建立追蹤模型、加入傳感器及 Arduino | -- | -- |
 | 16 | 6/09 | 多功能整合 | -- | -- |
 | 17 | 6/16 | **期末報告** | -- | 期末週 |
 
+### **請同學注意! 原定 4/28表情辨識模型應用課程調至5/12，3D列印課程改為4/28與5/05**
 ### 1. 以上為暫時課程規劃，可能會受進度或其他因素而有更動
 ### 2. 每週點名單會更新至 Checkroll and Group Discussion 資料夾中
 ### 3. 每週的程式碼會放置每週的日期資料夾中
