@@ -11,7 +11,7 @@
 | 6 | 3/31 | 車牌辨識：資料前處理 [[Code]](https://drive.google.com/file/d/1WI1gFNkPOwUMcE4q-SFKXioGs-sd_h-X/view?usp=sharing) | 卷積神經網路 [[PDF]](https://github.com/j82887/Cloud-Computing-Laboratory/raw/main/06_2021_0331/%E5%8E%9F%E7%90%86_%E7%AC%AC%E5%85%AD%E9%80%B1_%E5%8D%B7%E7%A9%8D%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF.pdf) | -- |
 | 7 | 4/07 | 車牌辨識：CNN分類器 [[Code]](https://drive.google.com/file/d/1Lznz3Ne3crARrmZD1EVdH2Z0BVIgYdRC/view?usp=sharing)| 驗證指標 [[PDF]](https://github.com/j82887/Cloud-Computing-Laboratory/raw/main/05_2021_0324/%E5%8E%9F%E7%90%86_%E7%AC%AC%E4%BA%94%E9%80%B1_%E5%88%86%E9%A1%9E%E6%A8%A1%E5%9E%8B%E7%9A%84%E9%A9%97%E8%AD%89%E6%8C%87%E6%A8%99.pdf) | -- |
 | 8 | 4/14 | 車牌辨識：實際應用 [[Code1]](https://drive.google.com/file/d/1YJStzKU4IBQaexVJ1_yG6Y1VzKSJgLk-/view?usp=sharing) [[Code2]](https://drive.google.com/file/d/1Jk4epOYDURp4Hxp5TPy5Seb801miRefk/view?usp=sharing) | 特徵縮放與獨熱編碼 [[PDF]](https://github.com/j82887/Cloud-Computing-Laboratory/raw/main/07_2021_0407/%E5%8E%9F%E7%90%86_%E7%AC%AC%E4%B8%83%E9%80%B1_%E8%B3%87%E6%96%99%E5%89%8D%E8%99%95%E7%90%86-%E7%89%B9%E5%BE%B5%E7%B8%AE%E6%94%BE%E8%88%87%E7%8D%A8%E7%86%B1%E7%B7%A8%E7%A2%BC.pdf) | -- |
-| 9 | 4/21 | 人臉辨識模型應用 | 不均勻類別 | 期中週 |
+| 9 | 4/21 | 人臉辨識模型應用 | 不均勻類別 [PDF] | 期中週 |
 | 10 | 4/28 | 3D列印進階教學I | -- | -- |
 | 11 | 5/05 | 3D列印進階教學II | -- | 教學意見問卷 |
 | 12 | 5/12 | 表情辨識模型應用 | 超參數搜索 | -- |
