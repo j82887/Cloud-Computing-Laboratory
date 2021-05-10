@@ -74,7 +74,14 @@
 ### 2021.04.21
 - [x] 程式上: 車牌辨識系統合併改進（Haar+號碼CNN）
 - [x] 程式上: 開啟攝影機或影片播放、關閉攝影機與銷毀畫面
-- [x] 程式上: 使用Haar分類器(人臉)（OpenCV）
+- [x] 程式上: 使用OpenCV的Haar分類器辨識人臉（OpenCV）
+
+### 2021.05.12
+- [ ] 安裝上: 從官網下載whl安裝Dlib (https://pypi.org/simple/dlib/)
+- [ ] 程式上: 使用Dlib辨識人臉
+- [ ] 程式上: 表情辨識（Tensorflow and Keras）
+- [ ] 程式上: Tkinter設計GUI介面:佈局、控件(按鈕、標籤放置圖片與文字、輸入欄、勾選等)、事件觸發等
+- [ ] 程式上: 表情辨識貼圖系統（Tensorflow, Keras, Dlib and Tkinter）
 
 ---
 # 教材錯誤更正與更新：
