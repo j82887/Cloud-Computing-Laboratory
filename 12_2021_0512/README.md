@@ -20,5 +20,5 @@
 * [06_Neutral_Second.png](https://drive.google.com/file/d/16ysFBwZ44_GT7j_spDlfIXgP9QEKNunX/view?usp=sharing)
 
 ## 教材少這個 
-`from PIL import ImageTk, Image `
-`from tkinter.filedialog import askopenfilename`
+* `from PIL import ImageTk, Image `
+* `from tkinter.filedialog import askopenfilename`
