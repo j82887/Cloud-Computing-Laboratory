@@ -18,3 +18,5 @@
 * [04_Sad_Second.png](https://drive.google.com/file/d/1bAs4DsymyrRZ8WT5boTDeXYHTmqTuoHD/view?usp=sharing)
 * [05_Surprise_Second.png](https://drive.google.com/file/d/1RJo_01U9g_tx4_NDmkAEzgLb4-e7jyPu/view?usp=sharing)
 * [06_Neutral_Second.png](https://drive.google.com/file/d/16ysFBwZ44_GT7j_spDlfIXgP9QEKNunX/view?usp=sharing)
+
+# 教材少這個 `from PIL import ImageTk, Image `
