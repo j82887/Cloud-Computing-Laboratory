@@ -14,7 +14,7 @@
 | 9 | 4/21 | 人臉辨識模型應用 | 不均勻類別 [PDF] | 期中週 |
 | 10 | 4/28 | 3D列印進階教學I | -- | -- |
 | 11 | 5/05 | 3D列印進階教學II | -- | 教學意見問卷 |
-| 12 | 5/12 | 表情辨識模型應用 [[Code]](https://drive.google.com/file/d/1cbqRToX1cJvEjcgP0g0W7-bhH48q1qzw/view?usp=sharing) | 超參數搜索 | -- |
+| 12 | 5/12 | 表情辨識模型應用 [[Code]](https://drive.google.com/file/d/1cbqRToX1cJvEjcgP0g0W7-bhH48q1qzw/view?usp=sharing) | -- | -- |
 | 13 | 5/19 | Jetbot 基本介紹與實作 | -- | -- |
 | 14 | 5/26 | 製作App及手機遙控小車 | -- | -- |
 | 15 | 6/02 | 建立追蹤模型、加入傳感器及 Arduino | -- | -- |
@@ -77,11 +77,11 @@
 - [x] 程式上: 使用OpenCV的Haar分類器辨識人臉（OpenCV）
 
 ### 2021.05.12
-- [ ] 安裝上: 從官網下載whl安裝Dlib (https://pypi.org/simple/dlib/)
-- [ ] 程式上: 使用Dlib辨識人臉
-- [ ] 程式上: 表情辨識（Tensorflow and Keras）
-- [ ] 程式上: Tkinter設計GUI介面:佈局、控件(按鈕、標籤放置圖片與文字、輸入欄、勾選等)、事件觸發等
-- [ ] 程式上: 表情辨識貼圖系統（Tensorflow, Keras, Dlib and Tkinter）
+- [x] 安裝上: 從官網下載whl安裝Dlib (https://pypi.org/simple/dlib/)
+- [x] 程式上: 使用Dlib辨識人臉
+- [x] 程式上: 表情辨識（Tensorflow and Keras）
+- [x] 程式上: Tkinter設計GUI介面:佈局、控件(按鈕、標籤放置圖片與文字、輸入欄、勾選等)、事件觸發等
+- [x] 程式上: 表情辨識貼圖系統（Tensorflow, Keras, Dlib and Tkinter）
 
 ---
 # 教材錯誤更正與更新：
