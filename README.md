@@ -1,7 +1,7 @@
 ![GITHUB](https://miro.medium.com/max/1426/1*scKtPpJ3JCYKlsxqfwn6Cg.jpeg)
 
 ### **請同學注意! 因應疫情擴大，本校自110年5月17日起至6月8日止，全部課程採用線上教學，以降低感染之風險**
-### **教授與助教會討論課程評分或是上課方式的更動，近期會在Github、東華e學苑與發email給各位同學!**
+### **自走車課程到6/8前改為錄製影片的方式教學，會將影片及投影片連結或檔案放在東華e學苑上**
 
 # Cloud Computing Laboratory
  
