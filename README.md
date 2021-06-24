@@ -101,4 +101,3 @@
 # 課後詢問：
 ### 1. 聯絡地點：理工二館 A202
 ### 2. 聯絡郵件：j82887@gmail.com
-### 3. Google表單：https://forms.gle/T78yvzipNS6Uu6hi9
